@@ -1,0 +1,23 @@
+{
+  "name": "notifi-test-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsorkin24/notifi-test-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsorkin24/notifi-test-node-app/issues"
+  },
+  "homepage": "https://github.com/jsorkin24/notifi-test-node-app#readme",
+  "dependencies": {
+    "@notifi-network/notifi-node": "^0.85.0",
+    "dotenv": "^16.3.1"
+  }
+}
