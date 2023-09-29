@@ -25,7 +25,7 @@ class App {
       variables: [
         {
           key: 'message',
-          value: 'Test Test This is the body of the message I would like my users to receive!',
+          value: 'This is the body of the message I would like my users to receive!',
         },
         {
           key: 'subject',
